@@ -1,0 +1,1 @@
+export const LOAD_STORIES = "LOAD_STORIES";
